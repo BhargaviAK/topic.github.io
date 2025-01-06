@@ -28,7 +28,7 @@ providing real-time data analysis.
 -  **E-Waste Management System:**
 ● Description: Assists users in categorizing and recycling e-waste, employing Quadratic
 Probing for efficient hash collision handling.
-- ** Waste-to-Energy Conversion System:**
+- **Waste-to-Energy Conversion System:**
 ● Description: A module that identifies waste suitable for energy generation, such as
 incineration or biogas production, monitors energy output from waste conversion plants,
 and generates efficiency reports to optimize energy recovery.
