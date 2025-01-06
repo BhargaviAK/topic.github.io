@@ -62,7 +62,7 @@ prioritizing complaints by urgency using a Priority Queue.
 
 ## 🚀 **Skills**
 
-- Proficient in C++,c. 
+- Proficient in C++,C. 
 - Strong grasp of Data Structures and Algorithms.  
 - Expertise in problem-solving through advanced DAA techniques.  
 - Experience with project development and team collaboration.  
