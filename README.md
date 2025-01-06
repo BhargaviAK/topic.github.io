@@ -44,7 +44,7 @@ prioritizing complaints by urgency using a Priority Queue.
 *Technical Stack:*  
 
 - **Languages:** C++. 
-- **Algorithms:** Dijkstra’s, A*, KMP, Linear search,Merge sort,Quick sort,Binary search tree,Priority queue, Graph Traversal (DFS/BFS)
+- **Algorithms:** Dijkstra’s, KMP, Linear search,Merge sort,Quick sort,Binary search tree,Priority queue, Graph Traversal (DFS/BFS)
 - **Tools:** Graphs, DAA Optimization Techniques  
 
 **Impact:** 
